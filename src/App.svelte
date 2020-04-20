@@ -42,6 +42,21 @@
 			"4 Jul": "Final version of the Declaration of Independence signed by Congress",
 			"2 Aug": "Final version of the Declaration of Independence fully signed"
 		},
+		"1992": {
+			"3 Nov": "Bill Clinton elected as President"
+		},
+		"1996": {
+			"5 Nov": "Bill Clinton re-elected for second term as President"
+		},
+		"2000": {
+			"7 Nov": "George W. Bush elected as President"
+		},
+		"2004": {
+			"2 Nov": "George W. Bush re-elected for second term as President"
+		},
+		"2008": {
+			"4 Nov": "Barrack Obama elected as President"
+		},
 		"2012": {
 			"6 Nov": "Barrack Obama re-elected for second term as President"
 		}
