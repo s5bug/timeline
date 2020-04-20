@@ -116,9 +116,9 @@
 </style>
 
 <main id="main">
-	<div id="timeline" on:mousewheel={scrollHorizontally} class="timeline" style="width: {bottomW}px;">
+	<div id="timeline" on:mousewheel={scrollHorizontally} class="timeline" style="width: {bottomW.toFixed()}px;">
 		{#each fullEntries as [fullYear, p]}
-			<Event x="{xPerYear * (fullYear - firstYear) + 24}" w="{width}" year="{p.exactDate}">
+			<Event x="{(xPerYear * (fullYear - firstYear) + 24).toFixed()}" w="{width}" year="{p.exactDate}">
 				{p.description}
 			</Event>
 		{/each}
