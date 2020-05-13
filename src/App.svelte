@@ -73,6 +73,15 @@
 		"1862": {
 			"22 Sep": "Emancipation Proclamation signed"
 		},
+		"1973": {
+			"17 May": "Congressional hearings on Watergate Scandal open"
+		},
+		"1974": {
+			"9 Aug": "President Nixon resigns"
+		},
+		"1976": {
+			"2 Nov": "Jimmy Carter elected as President"
+		},
 		"1977": {
 			"7 Sep": "Torrijos–Carter Treaties signed"
 		},
