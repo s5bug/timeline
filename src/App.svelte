@@ -31,16 +31,50 @@
 			"19 Sep": "Jamestown burned by Bacon's forces",
 			"26 Oct": "Nathaniel Bacon dies of dysentery: End of Bacon's rebellion"
 		},
+		"1692": {
+			"2 Jun": "Salem Witch Trials"
+		},
 		"1733": {
 			"17 May": "Molasses Act passed",
-			"24 Jun": "Molasses Act put into partial enforcement",
-			"25 Dec": "Molasses Act put into full enforcement"
+			"24 Jun": "Molasses Act put into enforcement"
+		},
+		"1754": {
+			"5 Apr": "Start of the French and Indian War"
+		},
+		"1763": {
+			"10 Feb": "Treaty of Paris ends the French and Indian War"
+		},
+		"1765": {
+			"22 Mar": "Stamp Act passed",
+			"1 Nov": "Stamp Act put into enforcement"
 		},
 		"1776": {
 			"10 Jan": "Publication of Common Sense by Thomas Paine",
-			"2 Jul": "Independence formally declared by the United States",
-			"4 Jul": "Final version of the Declaration of Independence signed by Congress",
-			"2 Aug": "Final version of the Declaration of Independence fully signed"
+			"4 Jul": "Final version of the Declaration of Independence signed by Congress"
+		},
+		"1852": {
+			"20 Mar": "Uncle Tom's Cabin published"
+		},
+		"1855": {
+			"21 Nov": "Start of Bleeding Kansas"
+		},
+		"1857": {
+			"6 Mar": "Dred Scott v. Sandford decision"
+		},
+		"1859": {
+			"16 Oct": "John Brown's raid on Harpers Ferry"
+		},
+		"1860": {
+			"6 Nov": "Abraham Lincoln elected as President"
+		},
+		"1861": {
+			"8 Feb": "Creation of the Confederate States"
+		},
+		"1862": {
+			"22 Sep": "Emancipation Proclamation signed"
+		},
+		"1977": {
+			"7 Sep": "Torrijos–Carter Treaties signed"
 		},
 		"1992": {
 			"3 Nov": "Bill Clinton elected as President"
